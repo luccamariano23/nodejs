@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "lucca",
+        "MONGO_PASSWORD": "test",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+    }
+}
